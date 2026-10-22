@@ -2,7 +2,7 @@
 
 ## Stage I – Major Gestalt (Detail)
 
-The ideogram is the foundational unit. It is produced by a rapid, automatic motor response of the hand the moment the coordinate is perceived. The viewer does not draw a picture; the hand moves first and cognition follows.
+The ideogram is the foundational unit. It is produced by a rapid, automatic motor response of the hand the moment the coordinate is perceived. The viewer does not “draw a picture.” The hand moves first; cognition follows.
 
 Typical ideogram responses and their common gestalt labels:
 
@@ -14,7 +14,7 @@ Typical ideogram responses and their common gestalt labels:
 
 After the ideogram is drawn, the viewer immediately writes the A and B components:
 
-- A component: the motion or feeling of the ideogram itself
+- A component: the motion/feeling of the ideogram itself
 - B component: the first spontaneous analytic label
 
 Any visual that appears is written as:
@@ -26,16 +26,16 @@ Then the viewer returns to the signal line.
 
 ## Stage II – Sensory Contact (Detail)
 
-Data are recorded as short, concrete sensory words or phrases. No sentences. No interpretation.
+Data are recorded as short, concrete sensory words or short phrases. No sentences. No interpretation.
 
 Common sensory categories:
 
 - Thermal: cold, hot, warm, cool, freezing, burning
 - Tactile: rough, smooth, gritty, soft, hard, sharp, sticky, wet, dry
-- Olfactory: metallic, salty, chemical, earthy, sweet, foul
-- Auditory: roaring, humming, silence, wind, mechanical, voices
+- Olfactory: metallic, salty, chemical, earthy, sweet, foul, ozone
+- Auditory: roaring, humming, silence, wind, mechanical, voices (distant)
 - Gustatory: salty, bitter, metallic, sweet
-- Energetic: pressure, vibration, static, dense, empty
+- Energetic: pressure, vibration, static, radiation-like, dense, empty
 - Color: grey, white, dark, bright, blue-ish, etc.
 
 ## Stage III – Dimension, Motion, Mobility (Detail)
@@ -44,12 +44,12 @@ Once sensory data stabilize, dimensional language begins:
 
 high, tall, wide, long, deep, narrow, rising, falling, panoramic, overhead, ground-level, enclosed, open, massive, small
 
-Aesthetic Impact (AI) is a sudden involuntary reaction:
+Aesthetic Impact (AI) is a sudden, involuntary reaction:
 
 AI Break  
 Wow / This is huge / Dizzy / Beautiful / Oppressive
 
-After AI, sketches and trackers become productive.
+After AI, sketches and trackers become productive. A tracker is a rapid continuous line that follows the contour or internal movement of the site.
 
 Mobility commands (internal, silent):
 
@@ -81,14 +81,14 @@ The viewer remains in contact with the already-established signal line and silen
 - What is the primary activity here?
 - What is the dominant material?
 - How many people are present?
-- Is this military / scientific / industrial / residential?
+- Is this scientific / industrial / residential / religious? 
 - What is the most important object or feature?
 
 Answers must feel continuous with the prior signal.
 
 ## Stage VI – Modeling
 
-Physical modeling (clay is traditional) or highly detailed multi-view sketches. The act of modeling often releases additional Stage IV/V data.
+Physical modeling or highly detailed multi-view sketches. The act of modeling often releases additional Stage IV/V data that were previously inaccessible.
 
 ## Sample Session Skeleton
 

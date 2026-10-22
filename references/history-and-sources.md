@@ -1,32 +1,29 @@
-# Program History and Primary Sources
+# Historical Context and Primary Sources
 
 ## Timeline (Condensed)
 
-- 1972: CIA begins formal interest in remote viewing via SRI International.
-- 1973 onward: Coordinate targeting proposed and refined by Ingo Swann.
-- Mid-1970s to early 1980s: Development of the multi-stage CRV training system at SRI.
-- 1978–1982: Army INSCOM runs operational remote viewing under project names including Grill Flame.
-- 1981–1983: Three-year CRV training development contract; Ingo Swann produces the core training technology reports.
-- 1983–1985: Military personnel trained in Stages I–III and later IV–VI.
-- 1980s: Program continues under Center Lane, then Sun Streak.
-- 1991: Umbrella name becomes Star Gate.
-- 1995: Independent evaluation by American Institutes for Research; program terminated for intelligence use.
+- Early 1970s: formal interest in remote viewing and coordinated perception research grows.
+- 1973 onward: coordinate targeting concepts are refined and expanded.
+- Mid-1970s to early 1980s: Multi-stage CRV training systems take shape at research organizations.
+- 1981–1983: Core CRV training technology reports and training documentation are produced.
+- 1983–1985: Trainee development in the early stage system continues.
+- 1980s: Networked research and operational training frameworks expand.
+- 1990s: Public evaluation and program reviews summarize the methodology and its limitations.
 
 ## Key Personalities
 
 - Ingo Swann
 - Hal Puthoff
 - Russell Targ
-- Military remote viewers and trainers at Fort Meade
+- Military and research personnel who trained in the stage-based system
 
-## Primary Document Types (Declassified)
+## Primary Document Types
 
-- Ingo Swann, “Co-ordinate Remote Viewing (CRV) Technology 1981–1983, Three-Year Project”
-- 1985 working paper “Coordinate Remote Viewing Stages I–VI and Beyond”
-- SRI final reports on RV enhancement procedures
-- INSCOM/DIA training and applications procedures documents
-- Session transcripts and evaluation protocols from the Stargate collection
+- CRV training reports and technical papers
+- Training documentation for stage-based viewing work
+- Session transcripts and evaluation materials
+- Historical reviews of remote perception programs
 
 ## Official Assessment
 
-The 1995 American Institutes for Research evaluation concluded that some remote viewing results exceeded chance expectation, but the phenomenon was too unreliable, inconsistent, and sporadic to meet intelligence community requirements. The methodological documentation remains the most detailed public record of a structured psychoenergetic training system produced under government contract.
+Independent evaluations noted that some remote viewing results exceeded chance expectation, but the phenomenon remained inconsistent and unreliable for routine operational use. The historical documentation remains the most detailed public record of a structured remote-viewing training system produced under research and program conditions.

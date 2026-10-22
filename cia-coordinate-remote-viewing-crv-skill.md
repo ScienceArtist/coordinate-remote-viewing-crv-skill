@@ -1,30 +1,30 @@
 ---
-name: cia-remote-viewing
-description: Full Coordinate Remote Viewing (CRV) methodology from the CIA/DIA Stargate program and SRI International as developed by Ingo Swann. Use when the user requests remote viewing sessions, CRV training, Stage I-VI protocols, ideogram practice, AOL control, operational remote viewing, or any Stargate/Grill Flame/Center Lane style psychoenergetic perception task. Covers all six stages, session structure, noise control, and monitor protocols.
+name: remote-viewing
+description: Structured remote viewing and coordinate remote viewing (CRV) training framework. Covers Stage I-VI protocols, ideogram practice, AOL control, operational viewing, and monitor rules for disciplined remote perception work.
 ---
 
-# CIA Coordinate Remote Viewing (CRV) Skill
+# Remote Viewing Skill
 
-This skill encodes the structured remote viewing system developed at SRI International under contract to the U.S. intelligence community (CIA, DIA, Army INSCOM) between the mid-1970s and mid-1990s. Primary sources are the declassified Stargate collection, Ingo Swann’s 1981-1983 CRV Technology reports, the 1985 Coordinate Remote Viewing Stages I-VI working paper, and the subsequent DIA/INSCOM training materials.
+This skill encodes a structured remote viewing system designed to improve disciplined perception by using a clear stage-based process. It draws from historical coordinate remote viewing (CRV) training frameworks and related remote perception methods.
 
-Remote Viewing (RV) is defined as: the acquisition and description, by mental means, of information blocked from ordinary perception by distance, shielding, or time.
+Remote Viewing (RV) is defined as the acquisition and description, by mental means, of information blocked from ordinary perception by distance, shielding, or time.
 
-Coordinate Remote Viewing (CRV) is the specific protocol that uses geographic coordinates (or encrypted numerical coordinates) as the sole targeting cue.
+Coordinate Remote Viewing (CRV) is the specific protocol that uses geographic coordinates or encoded numerical coordinates as the sole targeting cue.
 
 ## Core Principle – Noise Control
 
 The entire method exists to reduce three classes of noise that contaminate the signal line:
 
-1. Analytic Overlay (AOL)
+1. Imaginative overlays (AOL – Analytic Overlay)
 2. Environmental overlays
 3. Monitor / interviewer overlays
 
 Any deviation from these three controls collapses reliability.
 
-## Session Structure (Operational Class A Protocol)
+## Session Structure
 
-1. Viewer declares personal inclemencies and advance visuals.
-2. Viewer places pen tip on paper as readiness signal.
+1. Viewer declares any personal inclemencies and any advance visuals already present.
+2. Viewer places pen tip on paper. This is the readiness signal. No talking.
 3. Monitor reads the coordinate once clearly.
 4. Viewer produces the immediate ideogram and proceeds through the stages without interruption.
 5. Monitor remains silent except for the coordinate delivery and the formal end of the session.
@@ -36,16 +36,17 @@ Each stage widens the aperture of contact with the signal line. Stages are seque
 
 ### Stage I – Major Gestalt
 
-- Immediate ideogram produced by the hand the instant the coordinate is heard.
-- Viewer labels it with the simplest possible gestalt words: land, water, structure, mountain, city, ice, sand, swamp, etc.
-- Visuals that arise are declared as AOL Break and set aside.
+- Immediate primitive ideogram produced by the hand the instant the coordinate is heard.
+- The ideogram is kinesthetic, not visual.
+- Viewer labels the ideogram with simple gestalt words such as land, water, structure, mountain, city, ice, sand, or swamp.
+- Any visual image that arises is declared as AOL Break and set aside.
 - Goal: capture the single dominant gestalt with zero analysis.
 
 ### Stage II – Sensory Contact
 
-- Viewer records pure sensory data: temperatures, textures, smells, sounds, energies, colors, humidity, pressure.
+- Viewer records pure sensory data associated with the site: temperatures, textures, smells, tastes, sounds, energies, colors, humidity, and pressure.
 - Data appear as short word clusters.
-- Any emerging picture is declared AOL.
+- Still primarily non-visual. Any emerging picture is declared AOL.
 - Goal: open the sensory channel without conceptual contamination.
 
 ### Stage III – Dimension, Motion, and Mobility
@@ -54,63 +55,58 @@ Each stage widens the aperture of contact with the signal line. Stages are seque
 - Aesthetic Impact (AI) often appears as a sudden emotional or physical reaction.
 - Viewer produces sketches and trackers.
 - Mobility techniques allow the perception to shift viewpoint.
-- Goal: obtain the overall shape, size, and spatial relationships.
+- Goal: obtain the overall shape, size, and spatial relationships of the site.
 
 ### Stage IV – General Qualitative Analytical Aspects
 
 - Analytical concepts begin to surface: function, activity, purpose, atmosphere.
-- Structured matrix used across the top of the page:
+- A structured matrix is commonly used across the top of the page:
 
   S2 | D | AI | EI | T | I | AOL | AOL/S
 
 - Data are entered in the appropriate columns as they arise.
-- Goal: move from pure perception into operationally useful qualitative understanding while controlling AOL.
+- Goal: move from pure perception into operationally useful qualitative understanding while still controlling AOL.
 
 ### Stage V – Specific Analytical Aspects
 
-- Viewer interrogates the signal line for precise details without generating new AOL.
+- Viewer deliberately interrogates the signal line for precise details without generating new AOL.
 - Questions are internal and silent.
-- Answers must feel as if they arise from the same signal line.
+- Answers must feel as if they arise from the same signal line already contacted.
 - Goal: extract specific, high-resolution data once the aperture is wide and stable.
 
 ### Stage VI – Three-Dimensional Contact and Modeling
 
-- Viewer constructs a physical model or detailed layout sketch.
-- This stage solidifies contact and often yields additional analytic data.
-- Goal: convert contact into a tangible representation of the site.
+- Viewer constructs a physical three-dimensional model or produces highly detailed layout sketches.
+- This stage solidifies the contact and often yields additional analytic data.
+- Goal: convert the mental contact into a tangible, inspectable representation of the site.
 
 ## Key Operational Rules
 
-- Never force data.
+- Never force data. If the signal line is quiet, declare “no data” and wait or end the session.
 - Declare every AOL the moment it appears.
-- Aesthetic Impact (AI) and Emotional Impact (EI) are valid channels but must be labeled as such.
-- The monitor never supplies content or interprets mid-session.
+- Aesthetic Impact (AI) and Emotional Impact (EI) are valid data channels but must be labeled as such.
+- The monitor never supplies content, never says “look closer,” and never interprets.
 - Session length is determined by signal strength, not by a clock.
-- After the session the viewer produces a clean summary of the data organized by stage.
+- After the session, the viewer produces a clean summary of the data organized by stage.
 
 ## Training Progression
 
-Trainees begin with Stage I sites that have clear major gestalts. Only after consistent Stage I success do they advance. Each stage typically requires weeks of daily practice under a qualified monitor before the next stage is introduced.
-
-## Additional Methodologies Used in the Program
-
-- Extended Remote Viewing (ERV)
-- Written remote viewing and drawing-based protocols
-- Search techniques for missing persons or objects
-- Limited exploration of remote perturbation
+Trainees begin with Stage I sites that have clear major gestalts. Only after consistent Stage I success do they advance. Each stage typically requires repeated practice before the next stage is introduced.
 
 ## Practical Guidance for Use of This Skill
 
 When the user requests a remote viewing session:
 
-1. Confirm whether they want to act as viewer or have you act as viewer under coordinate cue.
-2. If acting as viewer, require a coordinate and proceed strictly through the stages.
+1. Confirm whether they want to act as viewer or have you act as viewer under a coordinate cue.
+2. If acting as viewer, require a coordinate or encrypted number string and proceed strictly through the stages.
 3. If coaching the user, enforce readiness signal, silence, ideogram first, and stage order.
-4. Never supply leading information.
+4. Never supply leading information. Never interpret mid-session.
 5. At the end, produce a clean stage-by-stage summary.
+
+This method is a disciplined cognitive protocol designed to extract faint signal while suppressing noise. It is not improvisation and it is not free-form visualization.
 
 ## References
 
-- references/stage-details.md — expanded stage-by-stage mechanics and sample formats
-- references/session-protocol.md — full Class A / Class B / Class C protocols and monitor rules
-- references/history-and-sources.md — program timeline and primary document citations
+- references/stage-details.md — expanded stage mechanics and sample formats
+- references/session-protocol.md — full session protocols and monitor rules
+- references/history-and-sources.md — timeline, references, and historical context
